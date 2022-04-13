@@ -1,10 +1,10 @@
 /* ======= Configure Style (Remove in production) ======= */
 /* Demo theme colour variables */
 
-$theme-1: #5FCB71;
+$theme-1: #15239a;
 $theme-2: #5BC3D5;
 $theme-3: #3B7EEB;
-$theme-4: #5ECCA9;
+$theme-4: #0917b7;
 $theme-5: #EEA73B;
 $theme-6: #5469C9;
 $theme-7: #5D6BA7;
@@ -79,7 +79,7 @@ body {
         a {
            display: block;
            width: 28px;
-           height: 28px; 
+           height: 28px;
            border: 2px solid transparent;
            margin-top: 5px;
            &:hover {
@@ -103,7 +103,7 @@ body {
         &.theme-2 {
             a {
                 background-color: $theme-2;
-            }            
+            }
         }
         &.theme-3 {
             a {
@@ -130,17 +130,17 @@ body {
                 background-color: $theme-7;
             }
         }
-        
+
         &.theme-8 {
             a {
                 background-color: $theme-8;
             }
         }
-        
-       
-              
+
+
+
     }
-    
+
     .close {
         position: absolute;
         right: 5px;
