@@ -1,0 +1,8 @@
+{
+  "name": "thiagofagundes.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KasTs/thiagofagundes.github.io.git",
+  "author": "Thiago Fagundes <kasfagundes@gmail.com>",
+  "license": "MIT"
+}
