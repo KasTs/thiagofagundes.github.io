@@ -21,11 +21,6 @@ $(function() {
             else if(tipo === 'IMAGE'){
                 conteudo += '<div class="col-12 col-sm-6 col-md-4 col-lg-4 col-x1-4 col-xxl-4"><img style="width:100%; heigth:90%; cursor:pointer" title="'+titulo+'" alt="'+titulo+'" src= "'+feed.media_url+'" onclick="window.open(\'' + feed.permalink + '\');"> </div>';
             }
-
-
-    
-
-
         }
         conteudo += '</div>'; 
         $('#insta').html(conteudo);
